@@ -5,4 +5,4 @@ A mobile phone application that allows you to listen to music files that are sto
 
 <br>step1 -> download SongHUb.apk <br/>
 <br>step2 -> install in your android Device <br/>
-<br>step3 -> Let AI handle it... :) <br/>
+<br>step3 -> Let the music flow though your heart... :) <br/>
