@@ -18,7 +18,7 @@ A mobile phone application that allows you to listen to music files that are sto
 <img src="https://github.com/Shivanshsinghfrosty/SongHub/blob/main/image/search.jpeg" width="300" height="600" />
 <img src="https://github.com/Shivanshsinghfrosty/SongHub/blob/main/image/search s.jpeg" width="300" height="600" />
 
-### Library (under-Development...;))
+### Library (under-Development... ʕ•́ᴥ•̀ʔっ )
 <br><br/>
 <img src="https://github.com/Shivanshsinghfrosty/SongHub/blob/main/image/library.jpeg" width="300" height="600" />
 
